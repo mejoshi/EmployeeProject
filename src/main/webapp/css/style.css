@@ -1,0 +1,58 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+body{
+}
+
+td {
+  border-bottom: 1px solid #ddd;
+ 	padding:20px;
+}
+
+#home{
+	color:#222021;
+}
+
+#options{
+	margin:0 auto;
+	width:880px;
+	padding-top:100px;
+}
+
+#options li{
+	float:left;
+	padding-right:30px;
+	
+}
+
+#options li a{
+	  text-decoration: none;
+		color:red;
+}
+
+#list li{
+	display:inline;
+	padding:20px;
+}
+
+#list li{
+	display:inline;
+	padding:20px;
+	font-size: 30px;
+	text-align: center;
+}
+
+
+.logo{
+	width: 160px;
+	height:160px;
+	display:block;
+}
+
+
+#addEmployee{
+	padding-top:10px;
+}
+
